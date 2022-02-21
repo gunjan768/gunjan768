@@ -1,4 +1,4 @@
-## Hi there, I am ANSHAJ KUMAR! 👋
+## Hi there, I am Gunjan Kumar! 👋
 
 - I am a **Competitive Programmer, App Developer & Web Developer.**
 
